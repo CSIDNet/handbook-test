@@ -6,6 +6,7 @@ Here we will link all existing policies. What structure do we need?
 
 
 
-* Honoraria policy
+* [Honoraria policy](honoraria.md)
 * Committee renewal
 * Elections
+
